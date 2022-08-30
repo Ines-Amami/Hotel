@@ -1,0 +1,17 @@
+.legend{
+    height: 350px;
+    width: 700px;
+    margin-bottom: 150px;
+}
+.slid_img{
+    height: 500px;
+    width: 700px;
+
+}
+.carousel_img{
+    height:500px;
+margin-left: 350px;
+width: 700px;
+margin-bottom: 100px;
+}
+.thumb{height: 50px;}

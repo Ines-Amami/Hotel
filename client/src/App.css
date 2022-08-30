@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+.home {
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  font-size: 100px;
+}
+
+.about {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  font-size: 100px;
+}
+.ADD{
+  border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: #3bb19b;
+	color: white;
+	margin: 10px;
+	border-radius: 20px;
+	width: 180px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}

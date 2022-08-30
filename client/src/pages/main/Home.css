@@ -1,0 +1,112 @@
+.detai{
+
+
+height: 500px;
+text-align:center;
+}
+
+
+.head h1 {padding-top: 170px;
+	font-size: 100px;
+	color: #fff;
+	font-weight: 600;
+	
+}
+.info-home{ margin-top: 50px;}
+
+.bt{
+	background: transparent;
+box-shadow: none;
+	height: 70px;
+	width: 175px;
+	border: 2px solid #fff;
+	color: #fff;
+	border-radius: 50px;
+	font-size:x-large;
+}
+.aboutUs{
+padding: 150px  ;
+display: flex;
+justify-content: space-evenly;
+}
+span{
+
+	font-family:'Courier New', Courier, monospace;
+	
+	font-weight: 400;
+	
+
+	color: rgb(0, 157, 255);
+
+	
+	height: 20.9896px;
+
+	
+	margin: 0px 0px 15px;
+	
+	
+	display: block;
+
+}
+h3{
+		/* Font & Text */
+		font-family: Raleway, sans-serif;
+		font-size: 46px;
+		font-weight: 400;
+		line-height: 56px;
+		color: rgb(31, 31, 31);
+	
+		/* Box */
+		height: 111.979px;
+		width: 370px;
+	
+		margin: 0px 0px 8px;
+
+
+		display: block;
+	
+	
+}
+
+.parg{
+
+
+	line-height: 28px;
+
+	height: 167.917px;
+	width: 370px;
+
+	margin: 0px 0px 47px;
+	
+	display: block;
+	
+}
+.Link a{
+
+	line-height: 24px;
+	
+
+	color: rgb(145, 145, 145);
+
+	/* Box */
+	height: 26.0069px;
+	width: 89.4618px;
+	margin-left: 270px;
+	padding: 0px 5px 2px 0px;
+	
+	display: inline-block;
+	
+
+
+}
+
+.imag{
+	height: 408.889px;
+	width: 560px;
+	padding: 0px 15px;
+display: flex;
+justify-content: space-between;
+
+}
+
+

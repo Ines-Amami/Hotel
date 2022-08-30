@@ -1,0 +1,81 @@
+.Card_room{   z-index: 1000;
+ margin-bottom: 50px;
+width: 300px;}
+.img_rooms{ width: 300px;
+height: 250px;}
+ .line{
+   
+    width: 300px;
+height: 10px;
+border-bottom: 1px solid black;
+}
+.desc_rooms{
+    text-align:center;
+    color:#955251;
+    background-color: #7fcdcd;
+    
+}
+.ops{display: flex;
+justify-content:space-evenly;}
+.name_price{
+    text-align:center;
+}
+.name_room {
+    padding: 2px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.price_room{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.op_room{
+    padding: 16px;
+}
+.op{display: flex;
+    padding: 5px;
+justify-content: space-between;}
+.spam_day{
+    margin-top: 9px;
+    text-shadow: 2px;
+    color: rgb(79, 77, 77);
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 1px;
+}
+.Admin_btn{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.btn_add{
+
+    border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 80px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;}
+.btn_user{
+    
+   margin-bottom: -20px;
+    border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: #F6cac9;
+	border-radius: 20px;
+	width: 80px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.blog{
+    background-image: url("../../../public/images/blog.jpg");
+    height: 350px;
+    text-align:center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    font-size: 100px;
+  
+}
+.blog_head{padding-top: 120px;
+    font-size: 100px;
+    color: #fff;
+    font-weight: 600}
+    .col-lg-4{display: flex;}
+.categories_text{
+    border:2px solid;
+
+    background-color: rgb(255, 255, 255);
+
+}
